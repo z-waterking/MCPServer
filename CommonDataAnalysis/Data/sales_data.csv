@@ -1,0 +1,17 @@
+date,product,category,quantity,price,total
+2023-01-15,Laptop,Electronics,5,1200,6000
+2023-01-16,Smartphone,Electronics,10,800,8000
+2023-01-17,Desk Chair,Furniture,8,150,1200
+2023-01-18,Coffee Maker,Appliances,12,75,900
+2023-01-19,Headphones,Electronics,20,50,1000
+2023-01-20,Bookshelf,Furniture,3,200,600
+2023-01-21,Blender,Appliances,7,60,420
+2023-01-22,Monitor,Electronics,6,300,1800
+2023-01-23,Dining Table,Furniture,2,500,1000
+2023-01-24,Microwave,Appliances,4,120,480
+2023-01-25,Tablet,Electronics,9,350,3150
+2023-01-26,Office Desk,Furniture,5,250,1250
+2023-01-27,Toaster,Appliances,15,40,600
+2023-01-28,Keyboard,Electronics,18,70,1260
+2023-01-29,Sofa,Furniture,1,800,800
+2023-01-30,Refrigerator,Appliances,2,900,1800
