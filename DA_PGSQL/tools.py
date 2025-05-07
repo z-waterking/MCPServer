@@ -1,4 +1,3 @@
-# tools.py
 # encoding: utf-8
 from typing import List, Dict, Optional
 from db_manager import DatabaseManager

@@ -11,7 +11,6 @@ def start_service():
         mcp = FastMCP("data-analysis")
         
         db = DatabaseManager()
-        db.connect()
 
         # 注册工具和提示
         register_tools(mcp, db)
